@@ -25,17 +25,29 @@ It is recommended that Google Chrome&reg be used for this workshop.
 - https://www.mathworks.com/help/matlabmobile/ug/logging-accelerometer-data.html
 
 ### Activity 2: Accessing a webcam with MATLAB Online
+
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=AcquiringASingleImageInALoopExample.mlx)
-- https://www.mathworks.com/help/matlab/supportpkg/acquire-images-from-webcams.html
+
+![AcquiringASingleImageInALoopExample_01](https://github.com/user-attachments/assets/aacf9bb1-4452-40f6-a4a0-7a648886e218)
+
+Documentation Link:
+https://www.mathworks.com/help/matlab/supportpkg/acquire-images-from-webcams.html
 
 ### Activity 3: Plot Weather Data Using ThingSpeak 
-- https://www.mathworks.com/matlabcentral/fileexchange/47049-analyzing-weather-data-from-an-arduino-based-weather-station
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=UseAreaPlotToCompareTrafficDataSetsTSExample)
+
+![UseAreaPlotToCompareTrafficDataSetsTSExample_02](https://github.com/user-attachments/assets/5086fd60-ac04-4b5d-a138-e9f02747f8a6)
+
+
+Documentation Link:
+https://www.mathworks.com/matlabcentral/fileexchange/47049-analyzing-weather-data-from-an-arduino-based-weather-station
+
 
 ### Activity 4: Controlling an LED using MATLAB Online and Arduino
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=ArduinoGettingStartedExample.mlx)
 
 ![ArduinoGettingStartedExample_01](https://github.com/user-attachments/assets/f454627e-ceac-4161-b3d6-21557bbf61fb)
 
-- https://www.mathworks.com/help/matlab/supportpkg/control-leds-1.html
-- https://www.mathworks.com/help/matlab/supportpkg/getting-started-with-matlab-support-package-for-arduino-hardware.html
+Documentation Link:
+https://www.mathworks.com/help/matlab/supportpkg/getting-started-with-matlab-support-package-for-arduino-hardware.html
 - https://www.mathworks.com/help/matlab/supportpkg/control-servo-motors.html
