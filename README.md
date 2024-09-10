@@ -8,9 +8,8 @@ This workshop serves as a resource for educators seeking to enhance experiential
 It is recommended that Google Chrome&trade; be used for this workshop.
 
 ### Materials Required
-A basic Arduino kit is recommended to follow along with this workshop. 
-
-https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=asc_df_B01D8KOZF4/?tag=hyprod-20&linkCode=df0&hvadid=693369603351&hvpos=&hvnetw=g&hvrand=12451674447145320957&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001873&hvtargid=pla-406302474425&psc=1&mcid=80a5b47d61dc377992c3c25d65d73272
+A basic Arduino kit is recommended to follow along with this workshop.<br />
+https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=asc_df_B01D8KOZF4/?tag=hyprod-20&linkCode=df0&hvadid=693369603351&hvpos=&hvnetw=g&hvrand=12451674447145320957&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001873&hvtargid=pla-406302474425&psc=1&mcid=80a5b47d61dc377992c3c25d65d73272<br />
 https://store.arduino.cc/products/arduino-starter-kit-multi-language?srsltid=AfmBOoo8ChxKlB7y5MEod3Eek5t9001C-l_8_YQT77jxbHOjEc_IE9ac
 
 
