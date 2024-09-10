@@ -25,6 +25,7 @@ It is recommended that Google Chrome&reg be used for this workshop.
 - https://www.mathworks.com/help/matlabmobile/ug/logging-accelerometer-data.html
 
 ### Activity 2: Accessing a webcam with MATLAB Online
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=AcquiringASingleImageInALoopExample.mlx)
 - https://www.mathworks.com/help/matlab/supportpkg/acquire-images-from-webcams.html
 
 ### Activity 3: Plot Weather Data Using ThingSpeak 
