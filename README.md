@@ -25,29 +25,24 @@ It is recommended that Google Chrome&reg be used for this workshop.
 - https://www.mathworks.com/help/matlabmobile/ug/logging-accelerometer-data.html
 
 ### Activity 2: Accessing a webcam with MATLAB Online
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=AcquiringASingleImageInALoopExample.mlx)<br />
+![AcquiringASingleImageInALoopExample_01](https://github.com/user-attachments/assets/aacf9bb1-4452-40f6-a4a0-7a648886e218)<br />
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=AcquiringASingleImageInALoopExample.mlx)
-
-![AcquiringASingleImageInALoopExample_01](https://github.com/user-attachments/assets/aacf9bb1-4452-40f6-a4a0-7a648886e218)
-
-Documentation Link:
+Documentation Link:<br />
 https://www.mathworks.com/help/matlab/supportpkg/acquire-images-from-webcams.html
 
 ### Activity 3: Plot Weather Data Using ThingSpeak 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=UseAreaPlotToCompareTrafficDataSetsTSExample)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=UseAreaPlotToCompareTrafficDataSetsTSExample)<br />
+![UseAreaPlotToCompareTrafficDataSetsTSExample_02](https://github.com/user-attachments/assets/5086fd60-ac04-4b5d-a138-e9f02747f8a6)<br />
 
-![UseAreaPlotToCompareTrafficDataSetsTSExample_02](https://github.com/user-attachments/assets/5086fd60-ac04-4b5d-a138-e9f02747f8a6)
-
-
-Documentation Link:
+Documentation Link:<br />
 https://www.mathworks.com/matlabcentral/fileexchange/47049-analyzing-weather-data-from-an-arduino-based-weather-station
 
 
 ### Activity 4: Controlling an LED using MATLAB Online and Arduino
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=ArduinoGettingStartedExample.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=ArduinoGettingStartedExample.mlx)<br />
+![ArduinoGettingStartedExample_01](https://github.com/user-attachments/assets/f454627e-ceac-4161-b3d6-21557bbf61fb)<br />
 
-![ArduinoGettingStartedExample_01](https://github.com/user-attachments/assets/f454627e-ceac-4161-b3d6-21557bbf61fb)
-
-Documentation Link:
+Documentation Link:<br />
 https://www.mathworks.com/help/matlab/supportpkg/getting-started-with-matlab-support-package-for-arduino-hardware.html
 - https://www.mathworks.com/help/matlab/supportpkg/control-servo-motors.html
