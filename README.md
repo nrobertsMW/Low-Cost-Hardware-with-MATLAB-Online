@@ -21,6 +21,10 @@ It is recommended that Google Chrome&reg be used for this workshop.
 
 ## Workshop Activities
 ### Activity 1: Using MATLAB Mobile to collect sensor data
+
+<img width="441" alt="LoggingAccelerometerDataExample_01" src="https://github.com/user-attachments/assets/29b04f29-9c59-4e72-b7b6-fb0a7efc18d2">
+
+
 - https://www.mathworks.com/help/matlabmobile/ug/counting-steps-by-capturing-acceleration-data.html
 - https://www.mathworks.com/help/matlabmobile/ug/logging-accelerometer-data.html
 
