@@ -13,20 +13,20 @@ https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4
 https://store.arduino.cc/products/arduino-starter-kit-multi-language?srsltid=AfmBOoo8ChxKlB7y5MEod3Eek5t9001C-l_8_YQT77jxbHOjEc_IE9ac
 
 
-### Creating a MathWorks Account
+### Create a MathWorks Account
 Click on the link below to create a MathWorks account if you do not already have one.<br />
 https://www.mathworks.com/mwaccount/account/create
 
 Troubleshooting:<br />
 https://www.mathworks.com/matlabcentral/answers/361072-how-do-i-create-a-mathworks-account
 
-### Downloading MATLAB Mobile
+### Download MATLAB Mobile
 ![MLM_QR](https://github.com/user-attachments/assets/8a74bf97-8930-4151-87f2-2a96b8fc4b0a)<br />
 
 Documentation Link:<br />
 https://www.mathworks.com/help/matlabmobile/ug/install-matlab-mobile-on-your-device.html
 
-### Installing MATLAB Connector
+### Install MATLAB Connector
 Follow the instructions at the link below to install MATLAB Connector, which allows you to interface your Arduino hardware with MATLAB Online.
 
 https://www.mathworks.com/help/matlab/matlab_env/install-matlab-drive.html
