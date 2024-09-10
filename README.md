@@ -21,11 +21,11 @@ It is recommended that Google Chrome&reg be used for this workshop.
 
 ## Workshop Activities
 ### Activity 1: Using MATLAB Mobile to collect sensor data
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=LoggingAccelerometerDataExample)<br />
-![CountingStepsByCapturingAccelerationDataExample_01](https://github.com/user-attachments/assets/1448d72b-6a22-4f92-ab6c-c95b855fa7b7)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=CountingStepsByCapturingAccelerationDataExample)<br />
+![CountingStepsByCapturingAccelerationDataExample_01](https://github.com/user-attachments/assets/1448d72b-6a22-4f92-ab6c-c95b855fa7b7)<br />
 
 Documentation Link:<br />
-- https://www.mathworks.com/help/matlabmobile/ug/logging-accelerometer-data.html
+https://www.mathworks.com/help/matlabmobile/ug/counting-steps-by-capturing-acceleration-data.html
 
 ### Activity 2: Accessing a webcam with MATLAB Online
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=AcquiringASingleImageInALoopExample.mlx)<br />
