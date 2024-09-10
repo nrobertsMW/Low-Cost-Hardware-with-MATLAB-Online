@@ -4,23 +4,30 @@
 This workshop serves as a resource for educators seeking to enhance experiential learning with MATLAB and Simulink in online, hybrid, and remote environments. By leveraging MATLAB Online in conjunction with affordable hardware, educators can offer students engaging projects and activities without the need for costly lab equipment, extensive software installations, or complex desktop configurations. The repository includes guidance on using MATLAB Online with low-cost hardware platforms, such as Arduino, and other devices via MATLAB Mobile and ThingSpeak, to facilitate project-based learning. It also provides instructions on connecting hardware to MATLAB Online and designing effective project-based learning activities for remote settings.
 
 ## Getting Started
-#### Technical Requirements
+### Technical Requirements
 It is recommended that Google Chrome&trade; be used for this workshop.
 
-#### Creating a MathWorks Account
+### Materials Required
+A basic Arduino kit is recommended to follow along with this workshop. 
+
+https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=asc_df_B01D8KOZF4/?tag=hyprod-20&linkCode=df0&hvadid=693369603351&hvpos=&hvnetw=g&hvrand=12451674447145320957&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001873&hvtargid=pla-406302474425&psc=1&mcid=80a5b47d61dc377992c3c25d65d73272
+https://store.arduino.cc/products/arduino-starter-kit-multi-language?srsltid=AfmBOoo8ChxKlB7y5MEod3Eek5t9001C-l_8_YQT77jxbHOjEc_IE9ac
+
+
+### Creating a MathWorks Account
 Click on the link below to create a MathWorks account if you do not already have one.<br />
 https://www.mathworks.com/mwaccount/account/create
 
 Troubleshooting:<br />
 https://www.mathworks.com/matlabcentral/answers/361072-how-do-i-create-a-mathworks-account
 
-#### Downloading MATLAB Mobile
+### Downloading MATLAB Mobile
 ![MLM_QR](https://github.com/user-attachments/assets/8a74bf97-8930-4151-87f2-2a96b8fc4b0a)<br />
 
 Documentation Link:<br />
 https://www.mathworks.com/help/matlabmobile/ug/install-matlab-mobile-on-your-device.html
 
-#### Installing MATLAB Connector
+### Installing MATLAB Connector
 Follow the instructions at the link below to install MATLAB Connector, which allows you to interface your Arduino hardware with MATLAB Online.
 
 https://www.mathworks.com/help/matlab/matlab_env/install-matlab-drive.html
