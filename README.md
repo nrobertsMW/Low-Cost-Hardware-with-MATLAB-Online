@@ -5,7 +5,7 @@ This workshop serves as a resource for educators seeking to enhance experiential
 
 ## Getting Started
 #### Technical Requirements
-It is recommended that Google Chrome&reg be used for this workshop.
+It is recommended that Google Chrome&trade; be used for this workshop.
 
 #### Creating a MathWorks Account
 - https://www.mathworks.com/mwaccount/account/create
@@ -40,7 +40,6 @@ https://www.mathworks.com/help/matlab/supportpkg/acquire-images-from-webcams.htm
 
 Documentation Link:<br />
 https://www.mathworks.com/matlabcentral/fileexchange/47049-analyzing-weather-data-from-an-arduino-based-weather-station
-
 
 ### Activity 4: Controlling an LED using MATLAB Online and Arduino
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=ArduinoGettingStartedExample.mlx)<br />
