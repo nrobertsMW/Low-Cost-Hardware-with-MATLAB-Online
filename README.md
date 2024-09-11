@@ -48,7 +48,7 @@ Additional Examples:<br />
 https://www.mathworks.com/help/matlab/cameras-and-mobile-sensing.html?s_tid=CRUX_topnav
 
 
-### Activity 3: Plot Weather Data Using ThingSpeak 
+### Activity 3: Plot Traffic Data Using ThingSpeak 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=UseAreaPlotToCompareTrafficDataSetsTSExample)<br /><br />
 ![UseAreaPlotToCompareTrafficDataSetsTSExample_02](https://github.com/user-attachments/assets/5086fd60-ac04-4b5d-a138-e9f02747f8a6)<br />
 
