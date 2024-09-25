@@ -68,6 +68,7 @@ https://www.mathworks.com/help/matlab/cameras-and-mobile-sensing.html?s_tid=CRUX
 https://www.mathworks.com/help/matlab/examples.html?category=arduinoio&exampleproduct=all&newonly=&s_tid=CRUX_lftnav
 
 ### Raspberry Pi
+https://www.mathworks.com/help/matlab/supportpkg/connect-to-raspberry-pi-hardware-board-in-matlab-online.html
 https://www.mathworks.com/help/matlab/examples.html?category=raspberrypiio&exampleproduct=all&newonly=&s_tid=CRUX_lftnav
 
 ### Parrot Minidrone
