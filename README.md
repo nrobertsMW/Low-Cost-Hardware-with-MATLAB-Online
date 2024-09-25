@@ -20,6 +20,9 @@ https://www.mathworks.com/mwaccount/account/create
 Troubleshooting:<br />
 https://www.mathworks.com/matlabcentral/answers/361072-how-do-i-create-a-mathworks-account
 
+### Clone this Repository to your MATLAB Drive
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=CountingStepsByCapturingAccelerationDataExample.mlx)<br /><br />
+
 ### Download MATLAB Mobile
 ![MLM_QR](https://github.com/user-attachments/assets/8a74bf97-8930-4151-87f2-2a96b8fc4b0a)<br />
 
