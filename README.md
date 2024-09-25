@@ -36,29 +36,36 @@ https://www.mathworks.com/help/matlab/matlab_env/install-matlab-drive.html
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=CountingStepsByCapturingAccelerationDataExample.mlx)<br /><br />
 ![CountingStepsByCapturingAccelerationDataExample_01](https://github.com/user-attachments/assets/1448d72b-6a22-4f92-ab6c-c95b855fa7b7)<br />
 
-Additional Examples:<br />
-https://www.mathworks.com/help/matlabmobile/matlab-mobile-fundamentals.html
-
-
 ### Activity 2: Accessing a webcam with MATLAB Online
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=AcquiringASingleImageInALoopExample.mlx)<br /><br />
 ![AcquiringASingleImageInALoopExample_01](https://github.com/user-attachments/assets/aacf9bb1-4452-40f6-a4a0-7a648886e218)<br />
-
-Additional Examples:<br />
-https://www.mathworks.com/help/matlab/cameras-and-mobile-sensing.html?s_tid=CRUX_topnav
 
 
 ### Activity 3: Plot Traffic Data Using ThingSpeak 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=UseAreaPlotToCompareTrafficDataSetsTSExample)<br /><br />
 ![UseAreaPlotToCompareTrafficDataSetsTSExample_02](https://github.com/user-attachments/assets/5086fd60-ac04-4b5d-a138-e9f02747f8a6)<br />
 
-Additional Examples:<br />
-https://www.mathworks.com/help/matlab/cameras-and-mobile-sensing.html?s_tid=CRUX_topnav
-
 
 ### Activity 4: Controlling an LED using MATLAB Online and Arduino
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=ArduinoGettingStartedExample.mlx)<br /><br />
 ![ArduinoGettingStartedExample_01](https://github.com/user-attachments/assets/f454627e-ceac-4161-b3d6-21557bbf61fb)<br />
 
-Additional Examples:<br />
+
+## Additional Resources
+### MATLAB Mobile
+https://www.mathworks.com/help/matlabmobile/matlab-mobile-fundamentals.html
+
+### Webcams
+https://www.mathworks.com/help/matlabmobile/matlab-mobile-fundamentals.html
+
+### ThingSpeak
+https://www.mathworks.com/help/matlab/cameras-and-mobile-sensing.html?s_tid=CRUX_topnav
+
+### Arduino
 https://www.mathworks.com/help/matlab/examples.html?category=arduinoio&exampleproduct=all&newonly=&s_tid=CRUX_lftnav
+
+### Raspberry Pi
+https://www.mathworks.com/help/matlab/examples.html?category=raspberrypiio&exampleproduct=all&newonly=&s_tid=CRUX_lftnav
+
+### Parrot Minidrone
+https://www.mathworks.com/help/matlab/examples.html?category=parrotio&s_tid=CRUX_topnav
