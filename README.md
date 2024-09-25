@@ -72,3 +72,9 @@ https://www.mathworks.com/help/matlab/examples.html?category=raspberrypiio&examp
 
 ### Parrot Minidrone
 https://www.mathworks.com/help/matlab/examples.html?category=parrotio&s_tid=CRUX_topnav
+
+## License ##
+The license for this module is available in the [LICENSE.txt](license.txt) file in this GitHub repository.
+
+# #
+_Copyright 2024 The MathWorks&reg;, Inc._
