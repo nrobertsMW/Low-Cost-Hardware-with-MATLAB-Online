@@ -34,6 +34,8 @@ Follow the instructions at the link below to install MATLAB Connector, which all
 
 https://www.mathworks.com/help/matlab/matlab_env/install-matlab-drive.html
 
+### 5. Configure MATLAB Connector for Arduino Hardware
+
 ## Workshop Activities
 ### Activity 1: Using MATLAB Mobile to collect sensor data
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=CountingStepsByCapturingAccelerationDataExample.mlx)<br /><br />
