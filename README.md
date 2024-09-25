@@ -20,7 +20,7 @@ Troubleshooting:<br />
 https://www.mathworks.com/matlabcentral/answers/361072-how-do-i-create-a-mathworks-account
 
 ### 2. Clone this Repository to your MATLAB Drive
-Click the button below to clone the repository for this workshop to your MATLAB Drive to use in MATLAB Online.<br />
+Click the button below to clone the repository for this workshop to your MATLAB Drive to use in MATLAB Online.<br /><br />
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=CountingStepsByCapturingAccelerationDataExample.mlx)<br /><br />
 
 ### 3. Download MATLAB Mobile
