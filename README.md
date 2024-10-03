@@ -30,13 +30,13 @@ Follow the instructions at the link below to install MATLAB Connector, which all
 
 INSERT LINK WHEN AVAILABLE
 
--Go to page 18 of the MLO for Arduino Support Package PDF.
--Start by clicking the words "MATLAB Connector download page" within the PDF to begin installation.
--Continue to follow the installation steps from there.
+- Go to page 18 of the MLO for Arduino Support Package PDF.
+- Start by clicking the words "MATLAB Connector download page" within the PDF to begin installation.
+- Continue to follow the installation steps from there.
 
 ### 4. Configure MATLAB Connector for Arduino Hardware
--After you have successfully installed MATLAB Connector, scroll to page 10 of the MLO for Arduino Support Package PDF.
--Follow the instructions for connecting and setting up an Arduino board with MATLAB Online.
+- After you have successfully installed MATLAB Connector, scroll to page 10 of the MLO for Arduino Support Package PDF.
+- Follow the instructions for connecting and setting up an Arduino board with MATLAB Online.
 
 ## Workshop Activities
 ### Activity 1: Activity: Taking a Selfie using a Webcam
