@@ -25,18 +25,18 @@ https://www.mathworks.com/matlabcentral/answers/361072-how-do-i-create-a-mathwor
 Click the button below to clone the repository for this workshop to your MATLAB Drive to use in MATLAB Online.<br /><br />
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=CountingStepsByCapturingAccelerationDataExample.mlx)<br /><br />
 
-### 3. Download MATLAB Mobile
-![MLM_QR](https://github.com/user-attachments/assets/8a74bf97-8930-4151-87f2-2a96b8fc4b0a)<br />
-
-Documentation Link:<br />
-https://www.mathworks.com/help/matlabmobile/ug/install-matlab-mobile-on-your-device.html
-
-### 4. Install MATLAB Connector
+### 3. Install MATLAB Connector
 Follow the instructions at the link below to install MATLAB Connector, which allows you to interface your Arduino hardware with MATLAB Online.
 
-https://www.mathworks.com/help/matlab/matlab_env/install-matlab-drive.html
+INSERT LINK WHEN AVAILABLE
 
-### 5. Configure MATLAB Connector for Arduino Hardware
+-Go to page 18 of the MLO for Arduino Support Package PDF.
+-Start by clicking the words "MATLAB Connector download page" within the PDF to begin installation.
+-Continue to follow the installation steps from there.
+
+### 4. Configure MATLAB Connector for Arduino Hardware
+-After you have successfully installed MATLAB Connector, scroll to page 10 of the MLO for Arduino Support Package PDF.
+-Follow the instructions for connecting and setting up an Arduino board with MATLAB Online.
 
 ## Workshop Activities
 ### Activity 1: Using MATLAB Mobile to collect sensor data
