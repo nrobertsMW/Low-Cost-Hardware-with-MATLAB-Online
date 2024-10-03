@@ -39,23 +39,30 @@ INSERT LINK WHEN AVAILABLE
 -Follow the instructions for connecting and setting up an Arduino board with MATLAB Online.
 
 ## Workshop Activities
-### Activity 1: Using MATLAB Mobile to collect sensor data
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=CountingStepsByCapturingAccelerationDataExample.mlx)<br /><br />
-![CountingStepsByCapturingAccelerationDataExample_01](https://github.com/user-attachments/assets/1448d72b-6a22-4f92-ab6c-c95b855fa7b7)<br />
-
-### Activity 2: Accessing a webcam with MATLAB Online
+### Activity 1: Activity: Taking a Selfie using a Webcam
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=AcquiringASingleImageInALoopExample.mlx)<br /><br />
 ![AcquiringASingleImageInALoopExample_01](https://github.com/user-attachments/assets/aacf9bb1-4452-40f6-a4a0-7a648886e218)<br />
 
 
-### Activity 3: Plot Traffic Data Using ThingSpeak 
+### Activity 2: Plot Traffic Data Using ThingSpeak 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=UseAreaPlotToCompareTrafficDataSetsTSExample)<br /><br />
 ![UseAreaPlotToCompareTrafficDataSetsTSExample_02](https://github.com/user-attachments/assets/5086fd60-ac04-4b5d-a138-e9f02747f8a6)<br />
 
 
-### Activity 4: Controlling an LED using MATLAB Online and Arduino
+### Activity 3: Controlling an LED using MATLAB Online and Arduino
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=ArduinoGettingStartedExample.mlx)<br /><br />
 ![ArduinoGettingStartedExample_01](https://github.com/user-attachments/assets/f454627e-ceac-4161-b3d6-21557bbf61fb)<br />
+
+## Workshop Demos
+### IoT-Based Automatic Cooling Fan Control Using ThingSpeak and Arduino Hardware
+
+![image](https://github.com/user-attachments/assets/6b55cf2d-80e7-40d0-b155-70408358c36c)
+
+https://www.mathworks.com/help/matlab/supportpkg/iot-automatic-cooling-fan-arduino-example.html
+
+### Using MATLAB Mobile to collect sensor data
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=CountingStepsByCapturingAccelerationDataExample.mlx)<br /><br />
+![CountingStepsByCapturingAccelerationDataExample_01](https://github.com/user-attachments/assets/1448d72b-6a22-4f92-ab6c-c95b855fa7b7)<br />
 
 
 ## Additional Resources
@@ -74,9 +81,6 @@ https://www.mathworks.com/help/matlab/examples.html?category=arduinoio&examplepr
 ### Raspberry Pi
 https://www.mathworks.com/help/matlab/supportpkg/connect-to-raspberry-pi-hardware-board-in-matlab-online.html
 https://www.mathworks.com/help/matlab/examples.html?category=raspberrypiio&exampleproduct=all&newonly=&s_tid=CRUX_lftnav
-
-### Parrot Minidrone
-https://www.mathworks.com/help/matlab/examples.html?category=parrotio&s_tid=CRUX_topnav
 
 ## License ##
 The license for this module is available in the [LICENSE.txt](license.txt) file in this GitHub repository.
