@@ -66,12 +66,12 @@ https://www.mathworks.com/help/matlab/supportpkg/iot-automatic-cooling-fan-ardui
 
 ## Educator Resources
 https://www.mathworks.com/academia.html <br />
-Access tools and resources for delivering great MATLAB based courses, including lectures, project-based learning, and assessments
-Browse courseware and examples from MathWorks and educators
+- Access tools and resources for delivering great MATLAB based courses, including lectures, project-based learning, and assessments
+- Browse courseware and examples from MathWorks and educators
 
 https://www.mathworks.com/hardware-support/arduino.html <br />
-Get support for MATLAB, Simulink, and hardware support packages
-Contact your Customer Success team for assistance with curriculum
+- Get support for MATLAB, Simulink, and hardware support packages
+- Contact your Customer Success team for assistance with curriculum
 
 https://github.com/mathworks
 https://github.com/MathWorks-Teaching-Resources
