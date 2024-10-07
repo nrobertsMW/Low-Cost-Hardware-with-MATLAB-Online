@@ -65,11 +65,11 @@ https://www.mathworks.com/help/matlab/supportpkg/iot-automatic-cooling-fan-ardui
 ![CountingStepsByCapturingAccelerationDataExample_01](https://github.com/user-attachments/assets/1448d72b-6a22-4f92-ab6c-c95b855fa7b7)<br />
 
 ## Educator Resources
-https://www.mathworks.com/academia.html 
+https://www.mathworks.com/academia.html <br />
 Access tools and resources for delivering great MATLAB based courses, including lectures, project-based learning, and assessments
 Browse courseware and examples from MathWorks and educators
 
-https://www.mathworks.com/hardware-support/arduino.html
+https://www.mathworks.com/hardware-support/arduino.html <br />
 Get support for MATLAB, Simulink, and hardware support packages
 Contact your Customer Success team for assistance with curriculum
 
