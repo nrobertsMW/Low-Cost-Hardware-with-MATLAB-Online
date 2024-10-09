@@ -21,11 +21,15 @@ https://www.mathworks.com/mwaccount/account/create
 Troubleshooting:<br />
 https://www.mathworks.com/matlabcentral/answers/361072-how-do-i-create-a-mathworks-account
 
-### 2. Clone this Repository to your MATLAB Drive
+### 2. Download MATLAB Mobile
+Scan the QR code below to download the app on your smart device.
+![image](https://github.com/user-attachments/assets/8beea0c0-923d-478b-b601-8c9257b1078b)
+
+### 3. Clone this Repository to your MATLAB Drive
 Click the button below to clone the repository for this workshop to your MATLAB Drive to use in MATLAB Online.<br /><br />
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/Low-Cost-Hardware-with-MATLAB-Online&file=CountingStepsByCapturingAccelerationDataExample.mlx)<br /><br />
 
-### 3. Install MATLAB Connector
+### 4. Install MATLAB Connector
 Follow the instructions at the link below to install MATLAB Connector, which allows you to interface your Arduino hardware with MATLAB Online.
 
 INSERT LINK WHEN AVAILABLE
@@ -34,7 +38,7 @@ INSERT LINK WHEN AVAILABLE
 - Start by clicking the words "MATLAB Connector download page" within the PDF to begin installation.
 - Continue to follow the installation steps from there.
 
-### 4. Configure MATLAB Connector for Arduino Hardware
+### 5. Configure MATLAB Connector for Arduino Hardware
 *Unlike MATLAB Desktop, the MATLAB and Simulink Support Packages for Arduino are automatically installed on MATLAB Online.*
 
 - After you have successfully installed MATLAB Connector, scroll to page 10 of the MLO for Arduino Support Package PDF.
