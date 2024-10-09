@@ -35,7 +35,7 @@ INSERT LINK WHEN AVAILABLE
 - Continue to follow the installation steps from there.
 
 ### 4. Configure MATLAB Connector for Arduino Hardware
-**Unlike MATLAB Desktop, the MATLAB and Simulink Support Packages for Arduino are automatically installed on MATLAB Online.**
+*Unlike MATLAB Desktop, the MATLAB and Simulink Support Packages for Arduino are automatically installed on MATLAB Online.*
 
 - After you have successfully installed MATLAB Connector, scroll to page 10 of the MLO for Arduino Support Package PDF.
 - Follow the instructions for connecting and setting up an Arduino board with MATLAB Online.
