@@ -22,7 +22,7 @@ Troubleshooting:<br />
 https://www.mathworks.com/matlabcentral/answers/361072-how-do-i-create-a-mathworks-account
 
 ### 2. Download MATLAB Mobile
-Scan the QR code below to download the app on your smart device.<br />
+Scan the QR code below to download the app on your smart device:<br /><br />
 ![image](https://github.com/user-attachments/assets/8beea0c0-923d-478b-b601-8c9257b1078b)
 
 ### 3. Clone this Repository to your MATLAB Drive
